@@ -1,1 +1,0 @@
-# Password Strength Checker: Use string methods to validate passwords
